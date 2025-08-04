@@ -1,2 +1,2 @@
-# ai_agent_portfolio
+# MindStudio AI Agent Portfolio
 AI Agent Portfolio using MindStudio
